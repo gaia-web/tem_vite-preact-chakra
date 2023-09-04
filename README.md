@@ -1,1 +1,1 @@
-# tem_vite-preact-ts
+# tem_vite-preact-chakra
